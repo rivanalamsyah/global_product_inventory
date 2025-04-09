@@ -4,14 +4,6 @@ import plotly.express as px
 import plotly.graph_objects as go
 from datetime import datetime
 
-st.markdown("""
-    <style>
-        .stDataFrame {background-color: white; border-radius: 10px; padding: 10px;}
-        section.main > div {padding-top: 2rem;}
-        .block-container {padding-top: 1rem;}
-    </style>
-""", unsafe_allow_html=True)
-
 # Konfigurasi Halaman
 st.set_page_config(page_title="Dashboard Inventaris Produk", page_icon="📦", layout="wide")
 st.title("📦 Dashboard Inventaris Produk Global")
