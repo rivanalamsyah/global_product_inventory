@@ -5,9 +5,11 @@
 ## 🔑 Key Features
 ### 14 Columns covering product specifications, pricing, stock levels, tags, and update timestamps
 ### Diverse Categories such as Home Appliances, Electronics, Groceries, and more
+
 ## Suitable for:
-### Data cleaning & preprocessing exercises
-### Building visual dashboards & visualizations
-### Predictive modeling (e.g., forecasting stock depletion or identifying fast-moving items)
+### - Data cleaning & preprocessing exercises
+### - Building visual dashboards & visualizations
+### - Predictive modeling (e.g., forecasting stock depletion or identifying fast-moving items)
 
 ### Link dataset: https://www.kaggle.com/datasets/keyushnisar/global-product-inventory-dataset-2025
+### Link Streamlit : https://global-app-inventory.streamlit.app/
